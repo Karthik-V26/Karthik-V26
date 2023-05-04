@@ -1,4 +1,4 @@
-Hello, <coders/>!
+Hello, <coders/>
 
 # 💫 About Me:
 👨‍💻 I'm currently working as Frontend Engineer at Agilis.<br>
