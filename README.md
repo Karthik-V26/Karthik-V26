@@ -1,7 +1,7 @@
 Hello, <coders/>
 
 # 💫 About Me:
-👨‍💻 I'm currently working as Frontend Engineer at Agilis.<br>
+👨‍💻 I'm currently working as Frontend Engineer at Naardic.<br>
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on Web Development
 
